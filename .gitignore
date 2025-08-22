@@ -2,4 +2,4 @@ log/*
 coverage/*
 .vscode
 .idea/*
-target/*
+/target
